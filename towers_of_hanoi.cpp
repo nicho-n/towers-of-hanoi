@@ -105,7 +105,6 @@ int main(int argc, char **argv) {
 			moves++;
 		}
 
-
 	}
 
 	system("pause");
